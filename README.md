@@ -38,14 +38,18 @@ Save different versions of the videos and compare the results to understand how 
 ### Prompt 1
 A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky.
 
-<video src="./Hailuo_Video_A time-lapse video of the sun _4..." controls width="600"></video>
+<video src="Hailuo_Video_A%20time-lapse%20video%20of%20the%20sun%20_4.mp4" controls width="500"></video>
 
-
+**Sun Time-lapse Video**  
+[Download/View Video](Hailuo_Video_A%20time-lapse%20video%20of%20the%20sun%20_4.mp4)
 
 ### Prompt 2
 "A magical forest." Expected Output A short (3-4 second) clip of a forest. The lighting might be plain daytime. The "magical" element would likely be a simple, static glow or a few basic, unrealistic floating particles. The camera would likely be static or have a very basic, slow zoom. Why it's Simple Lacks specifications for mood, specific elements, quality, or motion. Key Flaw Low Artistic Vision. The video is coherent but boring."
 
 <video src="./Hailuo_Video_Prompt _A magical forest_ Exp_4..." controls width="600"></video>
+**Magical Forest Video**  
+[Download/View Video](Hailuo_Video_Prompt%20_A%20magical%20forest_%20Exp_4.mp4)
+
 
 # Result: 
 The Prompt of the above task executed successfully
