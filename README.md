@@ -39,11 +39,13 @@ Save different versions of the videos and compare the results to understand how 
 A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky.
 
 
+https://github.com/user-attachments/assets/6842f341-dfa9-42a0-bce3-f6eb26ef8adc
+
 
 ### Prompt 2
 "A magical forest." Expected Output A short (3-4 second) clip of a forest. The lighting might be plain daytime. The "magical" element would likely be a simple, static glow or a few basic, unrealistic floating particles. The camera would likely be static or have a very basic, slow zoom. Why it's Simple Lacks specifications for mood, specific elements, quality, or motion. Key Flaw Low Artistic Vision. The video is coherent but boring."
 
-
+https://github.com/user-attachments/assets/4f9cdbda-4c05-42af-9bbb-4edcf54c5d88
 
 
 # Result: 
