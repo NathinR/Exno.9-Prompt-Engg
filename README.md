@@ -1,9 +1,9 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 04-09-2025
-# Register no.:212222230090
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+### Date: 04-09-2025
+### Register no.:212222230090
+## Aim: To perform the Exploration of Prompting Techniques for Video Generation
+#### Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 ### Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 ##### Runway Gen-2
@@ -38,9 +38,14 @@ Save different versions of the videos and compare the results to understand how 
 ### Prompt 1
 A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky.
 
+<video src="./Hailuo_Video_A time-lapse video of the sun _4..." controls width="600"></video>
+
+
 
 ### Prompt 2
 "A magical forest." Expected Output A short (3-4 second) clip of a forest. The lighting might be plain daytime. The "magical" element would likely be a simple, static glow or a few basic, unrealistic floating particles. The camera would likely be static or have a very basic, slow zoom. Why it's Simple Lacks specifications for mood, specific elements, quality, or motion. Key Flaw Low Artistic Vision. The video is coherent but boring."
+
+<video src="./Hailuo_Video_Prompt _A magical forest_ Exp_4..." controls width="600"></video>
 
 # Result: 
 The Prompt of the above task executed successfully
@@ -48,10 +53,4 @@ The Prompt of the above task executed successfully
 
 
 
-
-
-
-
-
-# Result:
 
